@@ -1,1 +1,0 @@
-print("Sunt fisier un de test")
